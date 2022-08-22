@@ -4,7 +4,7 @@
 
 ![](screenshot.png)
 
-- [Try it out!]()
+- [Try it out!](https://cryptic-deer.github.io/compare-movies/)
 
 ## Description
 
