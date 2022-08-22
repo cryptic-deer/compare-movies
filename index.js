@@ -57,7 +57,7 @@ let leftMovie;
 let rightMovie;
 //getting the data of the selected movie
 const onMovieSelect = async (movie, summaryElement, side) => {
-	const response = await axios.get("http://www.omdbapi.com/", {
+	const response = await axios.get("https://www.omdbapi.com/", {
 		params: {
 			apikey: API_KEY,
 			i: movie.imdbID,
